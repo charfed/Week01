@@ -1,0 +1,11 @@
+"mhammed".charAt(2) "a"  >> charAt is a method that returns a character by its index starting from 0
+
+Math.max(1,2,4,5,6)  6 	>> Math.max is a method that returns the biggest integer between
+
+Math.max(1,2,4,5,6)  1 	>> Math.max is a method that returns the smallest integer 
+
+between
+
+"Saleh".slice(1,2)  aleh >> slice is a method that returns the starting and the end of 
+
+any string starting from 0	

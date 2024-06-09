@@ -1,0 +1,13 @@
+>> Important mathematical methods to use in javascript                                             
+
+Math.PI ; Math.E , Math.round(), Math.ceil(), Math.floor(), Math.random(), Math.pow()
+
+>> Important methods of conversion 
+
+parseInt("65487") from string to number
+
+(65487).toString() from number to string
+
+123.213 toFixed(0)
+123.213 toFixed(3) fix the number after the 'comma'
+
